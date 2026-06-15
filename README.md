@@ -51,7 +51,7 @@ Hi! I am **Tanveer Kaur**, an Android Developer passionate about building modern
 
 ## 📬 Contact
 
-- 📧 Email: tanveerkaur@email.com  
+- 📧 Email: tanusaini.jandir@gmail.com  
 - 💼 LinkedIn: [My LinkedIn](https://www.linkedin.com/in/tanveer-kaur-56a188304/)  
 - 🐙 GitHub: https://github.com/tanve13  
 
