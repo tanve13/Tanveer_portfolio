@@ -46,7 +46,7 @@ Hi! I am **Tanveer Kaur**, an Android Developer passionate about building modern
 
 ## 🎥 Portfolio Demo
 
-![Portfolio Demo](tanveer_portfolio.mp4)
+![Portfolio Demo](portfolioTanveer.mp4)
 
 
 ## 📬 Contact
