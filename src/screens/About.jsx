@@ -264,12 +264,12 @@ function About() {
      {
       title: "2 Months Mobile App Training",
       desc: "Completed advanced mobile application development training with real-world project implementation.",
-      // image: "/training2months.jpg",
+       image: "/training2months.jpeg",
     },
      {
       title: "Donor App Hackathon Project",
       desc: "Developed Multi Donation App during hackathon featuring Firebase, Maps Integration and QR-based donations.",
-    //   image: "/donorapp.jpg",
+       image: "/donorapp.jpeg",
       },
     {
       title: "45 Days Android Training",
