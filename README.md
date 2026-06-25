@@ -32,7 +32,7 @@ Hi! I am **Tanveer Kaur**, an Android Developer passionate about building modern
 - Firebase 
 - Git & GitHub
 
----
+--- 
 
 ## 📂 Projects Included
 
