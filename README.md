@@ -5,7 +5,7 @@ It showcases my skills, projects, achievements, and experience in mobile app dev
  
 ---    
 
-## 👩‍💻 About Me
+## 👩‍💻 About Me 
 
 Hi! I am **Tanveer Kaur**, an Android Developer passionate about building modern, scalable, and user-friendly mobile applications using **Kotlin, Jetpack Compose, and Firebase**.
 
