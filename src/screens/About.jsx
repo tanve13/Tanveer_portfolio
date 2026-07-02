@@ -173,7 +173,6 @@ function About() {
         }}
       >
         <h3>💼 Experience</h3>
-
         <p>
           • Freelance Android Development Projects
         </p>
