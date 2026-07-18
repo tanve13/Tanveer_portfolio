@@ -55,7 +55,8 @@ Hi! I am **Tanveer Kaur**, an Android Developer passionate about building modern
 - 💼 LinkedIn: [My LinkedIn](https://www.linkedin.com/in/tanveer-kaur-56a188304/)  
 - 🐙 GitHub: https://github.com/tanve13  
 
----
+--- 
+
 # Live Demo
 
 https://tanveer-portfolio-seven.vercel.app
