@@ -172,7 +172,7 @@ function About() {
           marginTop: "18px",
         }}
       >
-        <h3>💼 Experience</h3>
+        <h3>💼 Experience</h3> 
         <p>
           • Freelance Android Development Projects
         </p>
